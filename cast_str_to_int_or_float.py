@@ -3,7 +3,9 @@ import unittest
 
 def string2number(a_string):
     """
-
+    Write a function string2number(a_string), that converts given String into
+    either an Integer or a Float depending on which of them is possible.
+    
     :param a_string: 
     :return: an int or float or raise Exception
     """
