@@ -9,15 +9,28 @@ def string2number(a_string):
     :param a_string: 
     :return: an int or float or raise Exception
     """
-    if isinstance(a_string, (bool)):
+    # Check if the param passed is not string
+
+    if not isinstance(a_string, (str)):
         raise ValueError
+
+    # Check that the string contains the dot operator
+    # in order to determine whether it is an int or float
+    # Convert to a float or raise a ValueError
     elif '.' in a_string:
-        return float(a_string)
-    else:
         try:
-            return int(a_string)
+            num = float(a_string)
         except:
             raise ValueError
+
+    # Convert to an int or raise ValueError
+    else:
+        try:
+            num = int(a_string)
+        except:
+            raise ValueError
+
+    return num
 
 
 class String2NumberTestCase(unittest.TestCase):

@@ -5,6 +5,7 @@ def camel_case(a_string):
     """Write a function that receives a string and returns
    a camel case version of it
    """
+    # Use Python's built in title() method for strings
     return a_string.title()
 
 
