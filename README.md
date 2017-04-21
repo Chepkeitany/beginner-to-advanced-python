@@ -11,3 +11,6 @@
 
 ### Problem 4: Cast string to int or float
 - `python cast_str_to_int_or_float.py`
+
+### Problem 5: Truncate chars in a string
+- `python truncate_chars.py`
