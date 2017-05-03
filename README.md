@@ -23,3 +23,6 @@
 
 ### Problem 8: Get the type of a param
 - `python param_type.py`
+
+### Problem 9: Get even numbers from a list of integers
+- `python even_numbers.py`
