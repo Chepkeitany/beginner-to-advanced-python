@@ -26,3 +26,6 @@
 
 ### Problem 9: Get even numbers from a list of integers
 - `python even_numbers.py`
+
+### Problem 10: Remove duplicates in a list in order
+- `python remove_dups_in_order.py`
