@@ -14,3 +14,9 @@
 
 ### Problem 5: Truncate chars in a string
 - `python truncate_chars.py`
+
+### Problem 6: Format datetime into a Custom string
+- `python format_datetime.py`
+
+### Problem 7: Count days between two date objects
+- `python count_days.py`
