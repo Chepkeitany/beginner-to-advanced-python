@@ -20,3 +20,6 @@
 
 ### Problem 7: Count days between two date objects
 - `python count_days.py`
+
+### Problem 8: Get the type of a param
+- `python param_type.py`
