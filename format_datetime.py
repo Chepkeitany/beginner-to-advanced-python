@@ -16,6 +16,7 @@ def format_datetime(dt):
     Write a function that formats a particular datetime object sent
     as a parameter with a custom String format.
 
+    Example: Tuesday January 05th, 2016 at 13:30 hs
     :param dt:
     :return: date string
     """
