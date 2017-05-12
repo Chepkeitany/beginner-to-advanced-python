@@ -32,3 +32,6 @@
 
 ### Problem 11: Reverse list in Python
 - `python reverse_list.py`
+
+### Problem 12: Return list of even numbers (using list comprehension)
+- `python even_numbers_list_comp.py`
