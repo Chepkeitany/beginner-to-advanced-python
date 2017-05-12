@@ -29,3 +29,6 @@
 
 ### Problem 10: Remove duplicates in a list in order
 - `python remove_dups_in_order.py`
+
+### Problem 11: Reverse list in Python
+- `python reverse_list.py`
