@@ -35,3 +35,6 @@
 
 ### Problem 12: Return list of even numbers (using list comprehension)
 - `python even_numbers_list_comp.py`
+
+### Problem 13: Return a list of squared numbers
+- `python square_list_elements.py`
