@@ -38,3 +38,6 @@
 
 ### Problem 13: Return a list of squared numbers
 - `python square_list_elements.py`
+
+### Problem 14: Return a list of numbers divisible by a given term
+- `python divisible_numbers_single_term.py`
