@@ -47,3 +47,6 @@
 
 ### Problem 16: Return a list of temperatures given in celsius transformed fahrenheit.
 - `python temp_conv_to_farenheit.py`
+
+### Problem 17: Convert temperature to either celsius or fahrenheit
+- `python temperature_conversion.py`
