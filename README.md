@@ -50,3 +50,6 @@
 
 ### Problem 17: Convert temperature to either celsius or fahrenheit
 - `python temperature_conversion.py`
+
+### Problem 18: Return sum of multiple terms
+- `python sum_multiple_terms.py`
