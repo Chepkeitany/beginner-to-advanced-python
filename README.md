@@ -44,3 +44,6 @@
 
 ### Problem 15: Return a list of numbers divisible by multiple terms
 - `python divisible_numbers_multiple_terms.py`
+
+### Problem 16: Return a list of temperatures given in celsius transformed fahrenheit.
+- `python temp_conv_to_farenheit.py`
