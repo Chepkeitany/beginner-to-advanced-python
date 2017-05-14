@@ -41,3 +41,6 @@
 
 ### Problem 14: Return a list of numbers divisible by a given term
 - `python divisible_numbers_single_term.py`
+
+### Problem 15: Return a list of numbers divisible by multiple terms
+- `python divisible_numbers_multiple_terms.py`
